@@ -1,0 +1,18 @@
+﻿{
+	"activeBrowser":"chrome",
+
+	"browserSettings":
+	{
+		"chrome":
+		{
+			"startArguments": ["start-maximized","--lang=ru"],
+		},
+	},
+
+	"timeouts": {
+		"timeoutImplicit": 0,
+		"timeoutElement": 5,
+		"timeoutPageLoad": 15,
+		"timeoutPollingInterval": 300,
+	},
+}
