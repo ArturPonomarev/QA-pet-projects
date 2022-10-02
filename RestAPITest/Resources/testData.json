@@ -1,0 +1,11 @@
+{
+  "testApiUrl": "https://gorest.co.in/",
+  
+  "params":
+  {
+	  "users":"public/v2/users",
+	  "singleUser":"public/v2/users/{0}",
+  },
+
+  "authorizationToken":"eacaa5e3612d8db6c91f6cdf96fb61f0c1e9d07336ed3a67a1543a9cc062a2eb"
+}
